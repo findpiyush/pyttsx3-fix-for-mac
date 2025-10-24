@@ -2,6 +2,8 @@
 
 A small guide and troubleshooting repository for using pyttsx3 on macOS. This repo documents a known KeyError: 'VoiceAge' when using pyttsx3 (NSSpeechSynthesizer driver) on macOS.
 
+link to the repo: https://github.com/nateshmbhat/pyttsx3
+
 ## Problem
 
 When using pyttsx3 on macOS u may see this traceback :
